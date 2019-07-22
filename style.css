@@ -1,0 +1,49 @@
+body {
+    background-color: #FFF;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 100px;
+  }
+
+h1 {
+    color: #466995;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 30px;
+}
+
+.tombol {
+    border: 1px solid #466995;
+    margin: 20px;
+    display: inline-block;
+}
+
+.tombol:hover {
+    background: #C0D6DF;
+    color: #FFF;
+}
+
+#container {
+    width: 600px;
+    height: 320px;
+    background: url(Untitled.jpg);
+    border: 1px solid #466995;
+    display: block;
+    margin: 0 auto;
+}
+
+#carA {
+    position: absolute;
+    top: 135px;
+    left: 400px;
+}
+
+#carB {
+    position: absolute;
+    top: 215px;
+    left: 400px;
+}
