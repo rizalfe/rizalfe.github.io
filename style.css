@@ -34,16 +34,17 @@ h1 {
     border: 1px solid #466995;
     display: block;
     margin: 0 auto;
+    position: relative;
 }
 
 #carA {
     position: absolute;
     top: 135px;
-    left: 400px;
+    left: 10px;
 }
 
 #carB {
     position: absolute;
     top: 215px;
-    left: 400px;
+    left: 10px;
 }
