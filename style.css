@@ -1,5 +1,5 @@
 body {
-    background-color: #FFF;
+    background: url(BMW-M3-E92-Sports-car-in-racing_1920x1080.jpg);
     margin: 0 auto;
     text-align: center;
     position: relative;
@@ -16,10 +16,18 @@ h1 {
     padding: 30px;
 }
 
+h4 {
+    color: #466995;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 .tombol {
     border: 1px solid #466995;
     margin: 20px;
     display: inline-block;
+    background: white;
 }
 
 .tombol:hover {
